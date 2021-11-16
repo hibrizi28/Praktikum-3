@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#box1 {
+    width: 20%;
+    height: 600px;
+    float: left;
+    background-color: yellow;
+    margin: 2%;
+    border: black solid;
+    
+}
+
+#box2 {
+    width: 20%;
+    height: 600px;
+    float: left;
+    background-color: orange;
+    margin: 2%;
+    border: black solid;
+}
+
+#box3 {
+    width: 20%;
+    height: 600px;;
+    float: left;
+    background-color: green;
+    margin: 2%;
+    border: black solid;
+}
+
+#box4 {
+    width: 20%;
+    height: 600px;
+    float: left;
+    background-color: blue;
+    margin: 2%;
+    border: black solid;
+}
